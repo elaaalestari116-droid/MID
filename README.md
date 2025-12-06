@@ -1,14 +1,13 @@
 1. Analisis Jumlah Siswa Mengulang di SD Kota Makassar Tahun 2024
+   Proyek ini bertujuan untuk menganalisis data jumlah siswa yang mengulang kelas di Sekolah Dasar (SD) Kota Makassar tahun 2024, serta membangun model machine learning sederhana untuk mengelompokkan tingkat risiko berdasarkan data pengulangan siswa. Proyek ini mengikuti standar proses CRISP-DM, meliputi pemahaman bisnis, pengolahan data, pemodelan, evaluasi, dan deployment menggunakan Gradio.
 
-Proyek ini bertujuan untuk menganalisis data jumlah siswa yang mengulang kelas di Sekolah Dasar (SD) Kota Makassar tahun 2024, serta membangun model machine learning sederhana untuk mengelompokkan tingkat risiko berdasarkan data pengulangan siswa. Proyek ini mengikuti standar proses CRISP-DM, meliputi pemahaman bisnis, pengolahan data, pemodelan, evaluasi, dan deployment menggunakan Gradio.
-
-3. Tujuan Proyek
+2. Tujuan Proyek
    - Mengidentifikasi kecamatan atau sekolah dengan persentase siswa mengulang yang tinggi.
    - Mengelompokkan sekolah ke dalam kategori risiko: Rendah, Sedang, dan Tinggi.
    - Membangun model machine learning sederhana untuk memprediksi risiko berdasarkan data kecamatan.
    - Menyediakan aplikasi Gradio untuk mempermudah penggunaan model.
 
-4. CRISP-DM Overview
+3. CRISP-DM Overview
    1) Business Understanding
       Memahami permasalahan tingginya jumlah siswa mengulang kelas di beberapa kecamatan dan kebutuhan untuk mengidentifikasi risiko berdasarkan data.
    2) Data Understanding
